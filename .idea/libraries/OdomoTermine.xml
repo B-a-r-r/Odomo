@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OdomoTermine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OdomoTermine.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
